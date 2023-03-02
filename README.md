@@ -1,4 +1,4 @@
-# Design Docs Using <[Diagrams.net](https://app.diagrams.net/)>
+# Design Docs Using [Diagrams.net](https://app.diagrams.net/)
 
 ## Current Documents
 
